@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "cat_functions.h": "c",
+        "string.h": "c",
+        "grep_functions.h": "c",
+        "stdio.h": "c",
+        "__node_handle": "c",
+        "locale": "c",
+        "ctype.h": "c",
+        "regex.h": "c",
+        "flag_struct.h": "c",
+        "stdlib.h": "c",
+        "s21_grep_func.h": "c"
+    }
+}
